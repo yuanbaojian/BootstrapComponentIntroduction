@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bootstrap 实例 - 下拉菜单（Dropdowns）</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../../css/ComponentsCss.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+
+<!--右侧内容我打算用栅格实现， index 使用的是css样式-->
+
+
+
+<!--    这是外部的框框-->
+    <div class="parent"  >
+<!--        这是下拉框的块-->
+        <div class="dropdown child">
+            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">主题
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                <li role="presentation">
+                    <a role="menuitem" tabindex="-1" href="#">Java</a>
+                </li>
+                <li role="presentation">
+                    <a role="menuitem" tabindex="-1" href="#">数据挖掘</a>
+                </li>
+                <li role="presentation">
+                    <a role="menuitem" tabindex="-1" href="#">数据通信/网络</a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+
+
+        <!--        代码存储框-->
+    <textarea class="testAreaCss"  >
+
+           <button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                <li role="presentation">
+                    <a role="menuitem" tabindex="-1" href="#">Java</a>
+                </li>
+                <li role="presentation">
+                    <a role="menuitem" tabindex="-1" href="#">数据挖掘</a>
+                </li>
+                <li role="presentation">
+                    <a role="menuitem" tabindex="-1" href="#">数据通信/网络</a>
+                </li>
+
+            </ul>
+
+
+    </textarea>
+
+
+
+</body>
+</html>

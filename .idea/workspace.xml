@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="131ae2c5-394e-4c6d-a9c4-4ca1c296011d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/Components/016.MediaObject/MedaiList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/LeftMenu2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/css/CodeMirrorTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/css/LeftMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/css/Menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/css/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/images/off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/images/on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/images/zakladka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/js/clike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/js/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootstrapComponent/js/menu_min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/codeMirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/codeMirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BootstrapComponentsIntroduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/001.DropDown/Alignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Alignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/001.DropDown/DisabledMenuItems.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/DisabledMenuItems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/001.DropDown/Divider.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Divider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/001.DropDown/Example.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/001.DropDown/Headers.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Headers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/002.ButtonGroups/BasicExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/BasicExample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/002.ButtonGroups/ButtonToolBar.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/ButtonToolBar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/002.ButtonGroups/JustfifedButtonGroups.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/JustfifedButtonGroups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/002.ButtonGroups/Nesting.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/Nesting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/002.ButtonGroups/Sizing.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/Sizing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/002.ButtonGroups/VerticalVariation.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/VerticalVariation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/003.ButtonDropDowns/DropupVariation.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/DropupVariation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/003.ButtonDropDowns/SingleButtonDropdowns.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/SingleButtonDropdowns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/003.ButtonDropDowns/Sizing.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/Sizing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/003.ButtonDropDowns/SplitButtonDropDowns.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/SplitButtonDropDowns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/BaseExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/BaseExample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/ButtonAddons.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/ButtonAddons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/ButtonsWithDropdowns.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/ButtonsWithDropdowns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/CheckBoxesAndRadioAddons.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/CheckBoxesAndRadioAddons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/MultipleButtons.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/MultipleButtons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/SegmentedButtons.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/SegmentedButtons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/004.InputGroups/Sizing.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/Sizing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/005.Navs/DisabledLinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/DisabledLinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/005.Navs/Justified.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Justified.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/005.Navs/Pills.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Pills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/005.Navs/Tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/005.Navs/UsingDropdowns.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/UsingDropdowns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/Brand.png" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Brand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/BrandImage.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/BrandImage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/Buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/DefaultNavbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/DefaultNavbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/FixedToTop.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/FixedToTop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/Forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/InvertNavbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/InvertNavbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/Non-navLinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Non-navLinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/StaticTop.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/StaticTop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/006.Navbar/Text.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/007.Breadcrumbs/Breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/007.Breadcrumbs/Breadcrumbs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/008.Pagination/DefaultPagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/008.Pagination/DefaultPagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/008.Pagination/Pager.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/008.Pagination/Pager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/009.Labels/Labels.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/009.Labels/Labels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/010.Badges/Badges.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/010.Badges/Badges.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/011.Jumbotron/Jumbotron.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/011.Jumbotron/Jumbotron.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/012.PageHeader/PageHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/012.PageHeader/PageHeader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/013.Thumbnails/CustomContent.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/013.Thumbnails/CustomContent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/013.Thumbnails/DefaultExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/013.Thumbnails/DefaultExample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/014.Alerts/DismissibleAlerts.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/DismissibleAlerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/014.Alerts/Examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/Examples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/014.Alerts/LinksInAlerts.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/LinksInAlerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/015.ProgressBars/Animated.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Animated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/015.ProgressBars/BasicExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/BasicExample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/015.ProgressBars/ContextualAlternatives.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/ContextualAlternatives.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/015.ProgressBars/Stacked.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Stacked.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/015.ProgressBars/Striped.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Striped.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/015.ProgressBars/WithLabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/WithLabel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/016.MediaObject/DefaultMedia.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/016.MediaObject/DefaultMedia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/016.MediaObject/MedaiList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/018.ListGroup/Badges.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/Badges.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/018.ListGroup/BasicExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/BasicExample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/018.ListGroup/ButtonItems.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/ButtonItems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/018.ListGroup/DisabledItems.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/DisabledItems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/018.ListGroup/LinkedItems.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/LinkedItems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/019.Panels/BasicExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/BasicExample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/019.Panels/PanelWithHeading.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/PanelWithHeading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/020.ResponsiveEmbed/ResponsiveEmbed.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/020.ResponsiveEmbed/ResponsiveEmbed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Components/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Components/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/LeftMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/LeftMenu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/RightMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/RightMenu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/css/ComponentsCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/css/ComponentsCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/image/Bootstrap图标.png" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/images/Bootstrap图标.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/image/cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/images/cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/image/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapComponent/images/google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe/view.jpg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Alignment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/layout/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="46" column="67" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/js/TestArea.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/LeftMenu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-96">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/LeftMenu2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/LinkedItems.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/BasicExample.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/PanelWithHeading.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/020.ResponsiveEmbed/ResponsiveEmbed.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Action</find>
+      <find>Affix</find>
+      <find>Bootstrap Affix</find>
+      <find>表单</find>
+      <find>g</find>
+      <find>媒体</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/DisabledMenuItems.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Divider.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Example.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/BasicExample.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/ButtonToolBar.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/JustfifedButtonGroups.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/Sizing.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/002.ButtonGroups/VerticalVariation.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/DropupVariation.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/Sizing.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/003.ButtonDropDowns/SplitButtonDropDowns.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/BaseExample.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/ButtonAddons.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/ButtonsWithDropdowns.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/CheckBoxesAndRadioAddons.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/MultipleButtons.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/SegmentedButtons.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/Sizing.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/DisabledLinks.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Justified.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Pills.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Tabs.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/UsingDropdowns.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/BrandImage.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Buttons.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/DefaultNavbar.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Forms.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Non-navLinks.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/StaticTop.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Text.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/009.Labels/Labels.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/010.Badges/Badges.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/011.Jumbotron/Jumbotron.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/DismissibleAlerts.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/Examples.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Animated.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Striped.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/WithLabel.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/016.MediaObject/DefaultMedia.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/Badges.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/BasicExample.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/DisabledItems.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/LinkedItems.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/BasicExample.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/PanelWithHeading.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/020.ResponsiveEmbed/ResponsiveEmbed.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/FixedToTop.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/LeftMenu.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/Index.html" />
+        <option value="$PROJECT_DIR$/BootstrapComponent/LeftMenu2.html" />
+        <option value="$PROJECT_DIR$/test/layout/layout.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="-13" />
+    <option name="width" value="1346" />
+    <option name="height" value="674" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BootstrapComponentsIntroduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootstrapComponentsIntroduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="BootstrapComponent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootstrapComponentsIntroduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootstrapComponentsIntroduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\test" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe\Components\css" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe\images" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe\js" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe\css" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\iframe" />
+      <recent name="E:\001.data_ybj\袁保健学习任务\文档与实现\001.Bootstrap文档\code\codeMirror" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="131ae2c5-394e-4c6d-a9c4-4ca1c296011d" name="Default Changelist" comment="" />
+      <created>1554968986239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554968986239</updated>
+      <workItem from="1554968987363" duration="1037000" />
+      <workItem from="1554970045647" duration="75000" />
+      <workItem from="1554970138701" duration="5353000" />
+      <workItem from="1555029494611" duration="1897000" />
+      <workItem from="1555036000999" duration="18644000" />
+      <workItem from="1555058879250" duration="1682000" />
+      <workItem from="1555076061999" duration="617000" />
+      <workItem from="1555151772947" duration="2931000" />
+      <workItem from="1555158810279" duration="2814000" />
+      <workItem from="1555163689118" duration="1749000" />
+      <workItem from="1555199694246" duration="27415000" />
+      <workItem from="1555289148822" duration="29195000" />
+      <workItem from="1555336072716" duration="616000" />
+      <workItem from="1555374652932" duration="10434000" />
+      <workItem from="1555385183366" duration="21436000" />
+      <workItem from="1555460977849" duration="7838000" />
+      <workItem from="1555469287436" duration="8873000" />
+      <workItem from="1555485888673" duration="2567000" />
+      <workItem from="1555488584450" duration="1762000" />
+      <workItem from="1555492372582" duration="3163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150098000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18824404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4985119" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4985119" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.17348608" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/SegmentedButtons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/004.InputGroups/Sizing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/DisabledLinks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Justified.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Pills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/Tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/005.Navs/UsingDropdowns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Brand.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/BrandImage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/DefaultNavbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/InvertNavbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Non-navLinks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/StaticTop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/Text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/007.Breadcrumbs/Breadcrumbs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/008.Pagination/DefaultPagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/008.Pagination/Pager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/009.Labels/Labels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/010.Badges/Badges.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/011.Jumbotron/Jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/012.PageHeader/PageHeader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/013.Thumbnails/CustomContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/013.Thumbnails/DefaultExample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/DismissibleAlerts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/Examples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/014.Alerts/LinksInAlerts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Animated.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/BasicExample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/ContextualAlternatives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Stacked.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/Striped.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/015.ProgressBars/WithLabel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/016.MediaObject/DefaultMedia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/016.MediaObject/MedaiList.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/Badges.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/ButtonItems.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/006.Navbar/FixedToTop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/BasicExample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/DisabledItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/018.ListGroup/LinkedItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/BasicExample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/019.Panels/PanelWithHeading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/020.ResponsiveEmbed/ResponsiveEmbed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/js/TestArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/LeftMenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/LeftMenu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Components/001.DropDown/Alignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/layout/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="46" column="67" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapComponent/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

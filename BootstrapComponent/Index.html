@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
 
-    <title>Title</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=0.8, minimum-scale=0.8, maximum-scale=1, user-scalable=no"/>
+
+    <title>Bootstrap组件</title>
 </head>
 
 <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
@@ -32,9 +33,7 @@
 我觉得已经可以了
 -->
 
-
-<div class="mainBox">
-
+<div class="container-fluid" style="overflow-y: hidden">
 
     <!--    头部导航条-->
     <nav class="navbar navbar-default navbar-static-top">
@@ -50,16 +49,16 @@
         </div>
     </nav>
 
-    <div class="leftBox">
+    <div class="col-md-3" style="overflow-y:auto">
         <!--左侧菜单栏-->
-        <iframe id="leftFrame" name="leftContent" src="LeftMenu.html" width="100%"
+        <iframe id="leftFrame" name="leftContent" src="LeftMenu.html" width="100%" height="100%" style="position:relative"
                 frameborder="0" scrolling="no" id="external-frame" onload="setIframeHeight(this)">
         </iframe>
     </div>
 
 
     <!--右侧菜单栏-->
-    <div class="rightBox">
+    <div class="col-md-9">
         <iframe id="rightFrame" name="rightContent" src="RightMenu.html" width="100%"
                 frameborder="0" scrolling="no" onload="setIframeHeight(this)">
         </iframe>
@@ -67,7 +66,6 @@
 
 
 </div>
-
 </body>
 
 <script>
